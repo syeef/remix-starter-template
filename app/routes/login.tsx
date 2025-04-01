@@ -69,7 +69,7 @@ export async function action({ request, context }: ActionFunctionArgs) {
 
     session.set("user", user);
     session.set("strategy", "form");
-    return redirect("/", {
+    return redirect("/dashboard", {
       headers: {
         "Set-Cookie": await authSessionStorage.commitSession(session),
       },
