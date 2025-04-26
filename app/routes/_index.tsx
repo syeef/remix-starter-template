@@ -31,8 +31,10 @@ export default function Index() {
 
       <ul>
         <li>Remix + Vite</li>
-        <li>Deployed to Cloudflare</li>
+        <li>Deployed to Cloudflare Pages</li>
         <li>Using Cloudflare D1 (SQLite) with Drizzle ORM</li>
+        <li>Supports Themes</li>
+        <li>Styling with SCSS</li>
       </ul>
 
       <NavLink to="/register">Register</NavLink>
