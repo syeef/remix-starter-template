@@ -1,0 +1,21 @@
+[data-theme="light"] {
+  --background-color: #fdfdfd;
+  --text-color: black;
+}
+
+[data-theme="dark"] {
+  --background-color: #0a0a0a;
+  --text-color: white;
+}
+
+html[data-theme="light"] {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+html[data-theme="dark"] {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
