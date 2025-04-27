@@ -1,6 +1,8 @@
-# Get started with Remix (using Vite) + Drizzle ORM + Cloudflare!
+# Get started with Remix (using Vite) + Drizzle ORM + Cloudflare Pages!
 
-A starter template project using Remix (from create-cloudflare CLI aka c3) with Vite and Drizzle ORM.
+A starter template project using Remix (from create-cloudflare CLI aka c3) with Vite and Drizzle ORM on Cloudflare Pages.
+
+- Theme support (Light, Dark, System)
 
 ## Initial Setup
 
