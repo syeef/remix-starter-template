@@ -4,7 +4,7 @@
  */
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "Remix-Starter-Template",
+  "name": "remix-starter-template",
   "compatibility_date": "2025-03-17",
   "pages_build_output_dir": "./build/client",
   "observability": {
