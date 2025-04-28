@@ -24,7 +24,7 @@ export default function Index() {
   return (
     <>
       <h1>
-        <p>Welcome to init!</p>
+        <p>Welcome to Starter!</p>
       </h1>
 
       <p>A starter project to help build ideas quickly.</p>
